@@ -40,6 +40,7 @@ Run this from your **local machine** (not the server):
   [--install-node] \
   [--setup-nginx] \
   [--domain example.com]
+```
 
 ## Example
 
@@ -55,7 +56,7 @@ Run this from your **local machine** (not the server):
   --domain example.com
   ```
 
-  ## Options
+## Options
 
 | Flag | Description |
 |------|--------------|
